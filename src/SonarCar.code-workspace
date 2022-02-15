@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\ServoWithESP"
+		},
+		{
+			"name": "ESP_Server",
+			"path": ".."
+		},
+		{
+			"name": "espservo",
+			"path": "..\\..\\espservo"
+		}
+	],
+	"settings": {}
+}
